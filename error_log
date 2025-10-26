@@ -1,0 +1,1 @@
+[23-Oct-2025 09:35:54 UTC] Cron reschedule event error for hook: nfd_data_sync_cron, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"minutely","args":[],"interval":60}
