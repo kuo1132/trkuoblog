@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blowfish</title>
+    <link>https://trkuo.blog/</link>
+    <description>Recent content on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>kuo113225@gmail.com (Sirotan)</managingEditor>
+    <webMaster>kuo113225@gmail.com (Sirotan)</webMaster>
+    <copyright>© 2025 Sirotan</copyright>
+    <lastBuildDate>Sun, 26 Oct 2025 15:02:18 +0800</lastBuildDate><atom:link href="https://trkuo.blog/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
